@@ -1,4 +1,4 @@
-# Poymarket Reverse trading Bot
+# Polymarket Reverse trading Bot
 
 TypeScript automation for my Polymarket reverse strategy on **15-minute BTC/ETH Up or Down** markets.
 
