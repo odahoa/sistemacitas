@@ -13,7 +13,6 @@
     "dotenv": "^16.4.7",
     "viem": "^2.23.2",
     "polymarket-stake-maths": "^3.0.0",
-    "ts-escrow": "^0.1.0",
   },
   "devDependencies": {
     "@types/node": "^22.13.4",
